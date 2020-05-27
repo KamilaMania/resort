@@ -34,6 +34,11 @@ h6 {
   text-transform: uppercase;
   cursor: pointer;
 }
+.loading {
+  text-transform: capitalize;
+  text-align: center;
+  margin-top: 3rem;
+}
 
 /* navbar */
 .navbar {
