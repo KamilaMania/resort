@@ -6,7 +6,7 @@ export default class Services extends Component {
     services: [
       {
         icon: <FaCocktail />,
-        title: "free cocktails",
+        title: "Free cocktails",
         info:
           "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, corporis!",
       },
